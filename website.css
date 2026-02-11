@@ -4,8 +4,10 @@ font-family: 'poppins' sans-serif;
 box-sizing: border-box;
 }
 img{
-  height: 400px;
-  width: 900px;
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+  padding: auto;
 }
 h1{
     color: rgb(50, 127, 216);
